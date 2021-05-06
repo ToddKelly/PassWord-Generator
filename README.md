@@ -1,5 +1,16 @@
 Password Generator
 
+todo:
+- remove console.logs
+- updated README with:
+    - deployed link
+    - description
+    - photo
+- submit hw with both links:
+    1. to repo
+    2. to deployed app
+- google markdown language 
+
 
 ## User Story
 
