@@ -10,11 +10,6 @@ var other = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~".split("");
 var pass = [];
 var possibleChar = [];
 
-// verify that array has been made correctally 
-console.log(alphaU);
-console.log(alphaL)
-console.log(number);
-console.log(other);
 
 // Write password to the #password input
 function writePassword() {
@@ -35,7 +30,7 @@ generateBtn.addEventListener("click", writePassword); {
     var passLenght = prompt("please select how many characters between 8 and 128 long");
 
     // Add prompt and alert buttons to get data from person 
-    console.log(passLenght)
+
     if (passLenght < 8) {
       alert("Invalad selection");
       return;
