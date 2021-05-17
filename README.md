@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 04 Web APIs: Code Quiz
 
 ## Your Task
@@ -87,3 +88,15 @@ You are required to submit BOTH of the following for review:
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+Password Generator
+
+
+# Pass Word Generator
+
+This is a Password Generator which creates a random password and returns it to the user.
+Follow the link to use it:
+https://toddkelly.github.io/PassWord-Generator/
+
+<img src= "./Passcodegenerator.png">
+>>>>>>> fb8a2488d37bed35e3787d5061b506ae6c14ff3d
